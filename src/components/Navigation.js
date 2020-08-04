@@ -69,7 +69,7 @@ const Navigation = () => {
               🖤
             </span>
             {'  '}
-            Favoritos
+            Favorites
           </Link>
         </li>
         <li>
